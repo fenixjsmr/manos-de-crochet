@@ -929,7 +929,7 @@ export default function App() {
         <div className="p-6 border-b border-slate-800">
           <div className="text-2xl font-extrabold text-white tracking-tighter flex items-center gap-2">
             <div className="w-8 h-8 bg-teal-500 rounded-lg flex items-center justify-center text-slate-900 font-black">M</div>
-            MDC ACADEMY.
+            MDC
           </div>
           <p className="text-xs text-slate-500 mt-1">Proyecto 2025</p>
         </div>
